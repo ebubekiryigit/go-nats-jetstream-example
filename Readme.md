@@ -1,6 +1,8 @@
 # Nats JetStream Example
 
-A simple Nats JetStream PubSub example.
+A simple Nats JetStream PubSub example. 
+
+Here is the Medium post: https://medium.com/@ebubekiryigit/distributed-message-streaming-in-golang-using-nats-jetstream-29f28be66dc6
 
 ## Dependencies
 
