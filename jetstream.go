@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/nats-io/nats.go"
-	"go-nats-jetstream/config"
+	"go-nats-jetstream-example/config"
 	"log"
 )
 

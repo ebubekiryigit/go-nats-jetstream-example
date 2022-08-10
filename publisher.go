@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"github.com/nats-io/nats.go"
-	"go-nats-jetstream/config"
-	"go-nats-jetstream/models"
+	"go-nats-jetstream-example/config"
+	"go-nats-jetstream-example/models"
 	"io/ioutil"
 	"log"
 	"math/rand"
