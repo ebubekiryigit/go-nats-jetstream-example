@@ -1,4 +1,4 @@
-module go-nats-jetstream
+module go-nats-jetstream-example
 
 go 1.18
 
