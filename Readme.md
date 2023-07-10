@@ -6,7 +6,7 @@ Here is the Medium post: https://medium.com/@ebubekiryigit/distributed-message-s
 
 ## Dependencies
 
-- Go 1.18
+- Go 1.20
 - Nats Server 1.16
 
 https://docs.nats.io/running-a-nats-service/introduction/installation
